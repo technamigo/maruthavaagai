@@ -1,0 +1,511 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1535017652152" ID="ID_1535347413" MODIFIED="1535017730131" TEXT="Page Construction">
+<node CREATED="1535017669322" FOLDED="true" ID="ID_190410677" MODIFIED="1535018749769" POSITION="right" TEXT="Home">
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535017754459" ID="ID_1988253577" MODIFIED="1535018696518" TEXT="Navigation: Links to other pages or sections"/>
+<node CREATED="1535017759101" ID="ID_719160679" MODIFIED="1535017769099" TEXT="Jumbotron">
+<node CREATED="1535017771335" ID="ID_1164383036" MODIFIED="1535017772850" TEXT="Quote"/>
+<node CREATED="1535017773686" ID="ID_1370510227" MODIFIED="1535017776062" TEXT="Pic"/>
+</node>
+<node CREATED="1535017779150" ID="ID_1718027851" MODIFIED="1535017847443" TEXT="Preview: Blog Post"/>
+<node CREATED="1535017831009" ID="ID_1491830443" MODIFIED="1535017840523" TEXT="Preview: Events"/>
+<node CREATED="1535017848557" ID="ID_91118864" MODIFIED="1535017855181" TEXT="Preview: Notifications"/>
+<node CREATED="1535017808057" ID="ID_817629111" MODIFIED="1535017822866" TEXT="Footer"/>
+</node>
+<node CREATED="1535017671837" FOLDED="true" ID="ID_334672735" MODIFIED="1535018778531" POSITION="right" TEXT="About">
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535017905387" ID="ID_1717258088" MODIFIED="1535018706114" TEXT="Spreading useful information: Wordings, Quotes"/>
+<node CREATED="1535017944108" ID="ID_1528817646" MODIFIED="1535018721361" TEXT="A Community formed to spread good things to people. Why, How, when, whom to contact"/>
+<node CREATED="1535012200432" FOLDED="true" HGAP="24" ID="ID_873574227" MODIFIED="1535018776759" TEXT="Activities" VSHIFT="1">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535012240968" FOLDED="true" ID="ID_13821497" MODIFIED="1535016794562" TEXT="Providing Organic and Natural goods at low cost from Farmers to people in different places">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012671443" ID="ID_1246420092" MODIFIED="1535015700628" TEXT="List of goods">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+</node>
+<node CREATED="1535012681221" ID="ID_349152312" MODIFIED="1535015700628" TEXT="How to get the goods">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012727101" ID="ID_622148110" MODIFIED="1535015700628" TEXT="How to contribute to this goods">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535012752564" FOLDED="true" ID="ID_1069351102" MODIFIED="1535018725313" TEXT="karutharangu/Manadu">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012775668" ID="ID_1768466612" MODIFIED="1535015700628" TEXT="Healer Baskar @ CIT 2017">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012794266" ID="ID_316290265" MODIFIED="1535015700628" TEXT="CD Foundation Podanur 2016">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012853009" ID="ID_69067592" MODIFIED="1535015700628" TEXT="Guests: ">
+<node CREATED="1535012859350" ID="ID_1530261570" MODIFIED="1535015700628" TEXT="Ramashanmugam"/>
+<node CREATED="1535012866172" ID="ID_76473268" MODIFIED="1535015700628" TEXT="Maran ji"/>
+<node CREATED="1535012872204" ID="ID_408592617" MODIFIED="1535015700628" TEXT="Guru of Hr. Baskar"/>
+</node>
+</node>
+</node>
+<node CREATED="1535013004623" ID="ID_1407434357" MODIFIED="1535018757971" TEXT="Whatsapp Group">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013012034" HGAP="32" ID="ID_1328490128" MODIFIED="1535015700628" TEXT="A whatsapp group has been created to discuss, share useful information." VSHIFT="71">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535018734234" ID="ID_772708624" MODIFIED="1535018741623" TEXT="How to join, Guidelines."/>
+<node CREATED="1535018761357" ID="ID_339441763" MODIFIED="1535018773620" TEXT="Share something to group, authentic information."/>
+</node>
+</node>
+</node>
+<node CREATED="1535017674377" ID="ID_1068682456" MODIFIED="1535019409430" POSITION="right" TEXT="Explore">
+<node CREATED="1535011933766" FOLDED="true" HGAP="97" ID="ID_694895907" MODIFIED="1535019532915" TEXT="Daily or weekly best news" VSHIFT="4">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535018787620" ID="ID_688934823" MODIFIED="1535018801356" TEXT="Shared from FB, other blogs , tweets, books.. etc."/>
+<node CREATED="1535018827199" ID="ID_1046302059" MODIFIED="1535018840228" TEXT="activities or change makers across the globe"/>
+</node>
+<node CREATED="1535012137034" FOLDED="true" HGAP="101" ID="ID_211665733" MODIFIED="1535019536477" TEXT="ChangeMakersEveryWeek" VSHIFT="5">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535018845089" ID="ID_955757109" MODIFIED="1535018857680" TEXT="About a particular person.. Get to know about them"/>
+<node CREATED="1535018861370" FOLDED="true" ID="ID_1120318582" MODIFIED="1535019535352" TEXT="Sources could be ">
+<node CREATED="1535018887259" ID="ID_1343726960" MODIFIED="1535018896664" TEXT="Phoenix manithargal show"/>
+<node CREATED="1535018897629" ID="ID_104792273" MODIFIED="1535018899816" TEXT="BIg short films"/>
+<node CREATED="1535018906494" ID="ID_1452797187" MODIFIED="1535018909571" TEXT="FB posts"/>
+<node CREATED="1535018913309" ID="ID_871368805" MODIFIED="1535018917995" TEXT="Youtube channel videos"/>
+<node CREATED="1535018918376" ID="ID_284520535" MODIFIED="1535018922782" TEXT="Awards and recognitions"/>
+<node CREATED="1535018923374" ID="ID_288356985" MODIFIED="1535018949627" TEXT="Controversial arrests like Herbal Petrol Ramar"/>
+<node CREATED="1535018950042" ID="ID_1617015682" MODIFIED="1535018953229" TEXT="Madan Gowri"/>
+</node>
+</node>
+<node COLOR="#000000" CREATED="1535013172632" FOLDED="true" HGAP="103" ID="ID_1336510192" MODIFIED="1535019538258" TEXT="Books sections" VSHIFT="11">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535018972788" ID="ID_1518498242" MODIFIED="1535018978584" TEXT="Everyweek one book roundup"/>
+<node CREATED="1535018978956" ID="ID_286714473" MODIFIED="1535018993062" TEXT="List of books and where can be get them"/>
+<node CREATED="1535018994750" ID="ID_1188120470" MODIFIED="1535019005623" TEXT="Description about the books, and links to them"/>
+<node CREATED="1535019009989" ID="ID_1819945774" MODIFIED="1535019018534" TEXT="Categories and this part can be sophisticated later"/>
+</node>
+</node>
+<node CREATED="1535017677348" FOLDED="true" ID="ID_15320703" MODIFIED="1535019502260" POSITION="right" TEXT="Updates">
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535018501912" HGAP="44" ID="ID_635662452" MODIFIED="1535018523330" TEXT="Edit history. So that viewers can what has been updated recently" VSHIFT="33"/>
+<node CREATED="1535018659006" ID="ID_936628915" MODIFIED="1535018677112" TEXT="Session tracking, with username password, So that he can mark what he has viewed"/>
+<node CREATED="1535019481217" ID="ID_1856046399" MODIFIED="1535019499885" TEXT="One time programming. SO that everytime when something changes, change history will be published"/>
+</node>
+<node CREATED="1535017683855" FOLDED="true" HGAP="19" ID="ID_1537445219" MODIFIED="1535019408133" POSITION="right" TEXT="Events" VSHIFT="9">
+<node CREATED="1535018553572" ID="ID_196609768" MODIFIED="1535019130489" TEXT="Maanadu /Karutharangu"/>
+<node CREATED="1535018572396" ID="ID_766665057" MODIFIED="1535018577083" TEXT="Trainings"/>
+<node CREATED="1535018605094" ID="ID_1004359855" MODIFIED="1535018614936" TEXT="Categories: Upcoming, Past">
+<node CREATED="1535018621218" ID="ID_946194415" MODIFIED="1535018648573" TEXT="Later this functionality can be ported to a  separate site"/>
+</node>
+<node CREATED="1535013766235" FOLDED="true" HGAP="17" ID="ID_561487784" MODIFIED="1535019232705" TEXT="Groups" VSHIFT="17">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013982183" HGAP="148" ID="ID_585640386" MODIFIED="1535015700628" TEXT="Iyalvaagai" VSHIFT="-25">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013987241" HGAP="125" ID="ID_710624588" MODIFIED="1535015700628" TEXT="Vaanagam" VSHIFT="-12">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013992402" HGAP="109" ID="ID_546421810" MODIFIED="1535015700628" TEXT="Semmai vanam" VSHIFT="-5">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013995924" HGAP="188" ID="ID_681107532" MODIFIED="1535015700628" TEXT="Panai naduvam" VSHIFT="12">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014001694" HGAP="165" ID="ID_1592586709" MODIFIED="1535015700628" TEXT="thenkani" VSHIFT="6">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014229467" HGAP="140" ID="ID_1397374987" MODIFIED="1535015700628" TEXT="Gandhi Ashramam Anaimalai" VSHIFT="9">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014245752" HGAP="134" ID="ID_1543551968" MODIFIED="1535015700628" TEXT="Namma Sandhai Tambaram" VSHIFT="11">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535014257492" FOLDED="true" HGAP="16" ID="ID_478951392" MODIFIED="1535019234353" TEXT="Santhai" VSHIFT="19">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535014266888" ID="ID_648646141" MODIFIED="1535015700628" TEXT="OorSanthai- Semmai Vanam">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014281387" ID="ID_1022662266" MODIFIED="1535015700628" TEXT="Namma Santhai - Tambaram Makkal Kuzhu">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014294165" ID="ID_421609311" MODIFIED="1535015700628" TEXT="Nalla Santhai - Nalla Keerai">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014314158" ID="ID_1674426944" MODIFIED="1535015700628" TEXT="Organic Farmers marker - OFM Ananthoo">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#000000" CREATED="1535012150046" FOLDED="true" HGAP="53" ID="ID_1869289269" MODIFIED="1535019392667" POSITION="left" TEXT="Contribute" VSHIFT="52">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535013549818" ID="ID_348586789" MODIFIED="1535015700628" TEXT="Ideas to contribute to the society">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013561891" ID="ID_576596926" MODIFIED="1535015700628" TEXT="Supplying farm fresh produce">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013577385" ID="ID_1568569620" MODIFIED="1535015700628" TEXT="Bringing handcrafted things for the community sales">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013600570" ID="ID_1874534688" MODIFIED="1535018354456" TEXT="conducting training classes">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535018378303" ID="ID_964671878" MODIFIED="1535018390117" TEXT="Monetary contribution"/>
+<node CREATED="1535013610678" ID="ID_133764867" MODIFIED="1535015700628" TEXT="Sharing experience">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535018357641" ID="ID_617635335" MODIFIED="1535018370233" TEXT="Volunteering for the events"/>
+<node CREATED="1535011953392" ID="ID_404488873" MODIFIED="1535019281112" TEXT="Munnorgal Muttal Illai material with proof" VSHIFT="8">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535019286736" ID="ID_1145184682" MODIFIED="1535019290673" TEXT="Needs review"/>
+</node>
+</node>
+<node CREATED="1535012108269" FOLDED="true" HGAP="52" ID="ID_441012602" MODIFIED="1535019395338" POSITION="left" TEXT="Blog posts" VSHIFT="9">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535012274888" ID="ID_863841071" MODIFIED="1535015700628" TEXT="Admin for the posts">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012305408" ID="ID_58925474" MODIFIED="1535015700628" TEXT="Different users can be created">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012317697" ID="ID_1809399558" MODIFIED="1535015700628" TEXT="Guest Account can be created">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012337934" ID="ID_62181745" MODIFIED="1535016937590" TEXT="A short writeup about posts shared by others, and corresponding link for the same">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012358447" ID="ID_478819743" MODIFIED="1535015700628" TEXT="like Semmai vanam post">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012368586" ID="ID_73191564" MODIFIED="1535015700628" TEXT="senthamizh thaasan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012384078" ID="ID_1117401740" MODIFIED="1535015700628" TEXT="Prema G">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012390834" ID="ID_1019266592" MODIFIED="1535015700628" TEXT="Ananthoo">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1535019054533" FOLDED="true" HGAP="74" ID="ID_113962177" MODIFIED="1535019574859" POSITION="left" TEXT="Connect" VSHIFT="16">
+<node CREATED="1535013738841" HGAP="68" ID="ID_194868268" MODIFIED="1535019559802" TEXT="Govt schemes" VSHIFT="-23">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013746911" HGAP="53" ID="ID_371955231" MODIFIED="1535019561582" TEXT="Like minded Groups across the globe" VSHIFT="4">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013766235" FOLDED="true" HGAP="151" ID="ID_692000227" MODIFIED="1535019553787" TEXT="Groups" VSHIFT="-9">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013982183" HGAP="148" ID="ID_350135141" MODIFIED="1535015700628" TEXT="Iyalvaagai" VSHIFT="-25">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013987241" HGAP="125" ID="ID_1045038163" MODIFIED="1535015700628" TEXT="Vaanagam" VSHIFT="-12">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013992402" HGAP="109" ID="ID_1812312257" MODIFIED="1535015700628" TEXT="Semmai vanam" VSHIFT="-5">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013995924" HGAP="188" ID="ID_1228724150" MODIFIED="1535015700628" TEXT="Panai naduvam" VSHIFT="12">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014001694" HGAP="165" ID="ID_500315226" MODIFIED="1535015700628" TEXT="thenkani" VSHIFT="6">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014229467" HGAP="140" ID="ID_1025047382" MODIFIED="1535015700628" TEXT="Gandhi Ashramam Anaimalai" VSHIFT="9">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014245752" HGAP="134" ID="ID_776516654" MODIFIED="1535015700628" TEXT="Namma Sandhai Tambaram" VSHIFT="11">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535013771954" FOLDED="true" HGAP="91" ID="ID_1701600668" MODIFIED="1535019555802" TEXT="People" VSHIFT="-7">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535014080122" ID="ID_1626778242" MODIFIED="1535015700628" TEXT="Senthamizhan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014085988" ID="ID_834014063" MODIFIED="1535015700628" TEXT="Pamayan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014089103" ID="ID_885183998" MODIFIED="1535015700628" TEXT="Ranganathan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014096655" ID="ID_643880867" MODIFIED="1535015700628" TEXT="Alageswari">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014124081" ID="ID_842379808" MODIFIED="1535015700628" TEXT="Fasaloor Rahman">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014130190" ID="ID_1846370434" MODIFIED="1535015700628" TEXT="Sultan Mohd. Ismail">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014141338" ID="ID_446356952" MODIFIED="1535015700628" TEXT="Ilango Kallanai">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014149663" ID="ID_294924545" MODIFIED="1535015700628" TEXT="Alagesa Pandian">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014155918" ID="ID_645541898" MODIFIED="1535015700628" TEXT="SKRCF Karthikeya Sivasenathipathi">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014167611" ID="ID_1580505490" MODIFIED="1535015700628" TEXT="Healer Basker">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1535013354443" FOLDED="true" HGAP="-57" ID="ID_838738867" MODIFIED="1535019377155" POSITION="left" TEXT="Icons list Legend" VSHIFT="137">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013383018" ID="ID_1818788404" MODIFIED="1535015700628" TEXT="one time update">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+</node>
+<node CREATED="1535013390950" FOLDED="true" ID="ID_840774688" MODIFIED="1535017087394" TEXT="Periodic update">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535013406948" ID="ID_679989641" MODIFIED="1535015700628" TEXT="weekly">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013410924" ID="ID_1522933948" MODIFIED="1535015700628" TEXT="daily">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013414275" ID="ID_1134706914" MODIFIED="1535015700628" TEXT="monthly">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535013423921" HGAP="15" ID="ID_424849549" MODIFIED="1535015858728" TEXT="Other special reasons" VSHIFT="5">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-pink"/>
+</node>
+</node>
+<node COLOR="#338800" CREATED="1535011724222" FOLDED="true" HGAP="-60" ID="ID_177859978" MODIFIED="1535019380060" POSITION="left" TEXT="MaruthavaagaiConcept" VSHIFT="-29">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="gohome"/>
+<node CREATED="1535011893975" HGAP="90" ID="ID_808834325" MODIFIED="1535016744383" TEXT="A Community formed to spread good things to people" VSHIFT="70">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+</node>
+<node CREATED="1535011922735" HGAP="138" ID="ID_339846269" MODIFIED="1535017103061" TEXT="Spreading useful information" VSHIFT="502">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+</node>
+<node CREATED="1535011933766" HGAP="97" ID="ID_1800289161" MODIFIED="1535016747352" TEXT="Daily or weekly best news" VSHIFT="4">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+</node>
+<node CREATED="1535011953392" HGAP="179" ID="ID_799913216" MODIFIED="1535017104186" TEXT="Munnorgal Muttal Illai material with proof" VSHIFT="24">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+</node>
+<node CREATED="1535012108269" FOLDED="true" HGAP="125" ID="ID_909432717" MODIFIED="1535019306244" TEXT="Blog posts" VSHIFT="16">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535012274888" ID="ID_1515479922" MODIFIED="1535015700628" TEXT="Admin for the posts">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012305408" ID="ID_1759861346" MODIFIED="1535015700628" TEXT="Different users can be created">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012317697" ID="ID_1536847610" MODIFIED="1535015700628" TEXT="Guest Account can be created">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012337934" ID="ID_401263309" MODIFIED="1535016937590" TEXT="A short writeup about posts shared by others, and corresponding link for the same">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012358447" ID="ID_419569192" MODIFIED="1535015700628" TEXT="like Semmai vanam post">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012368586" ID="ID_1198946150" MODIFIED="1535015700628" TEXT="senthamizh thaasan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012384078" ID="ID_73147292" MODIFIED="1535015700628" TEXT="Prema G">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012390834" ID="ID_877628544" MODIFIED="1535015700628" TEXT="Ananthoo">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1535012116609" HGAP="204" ID="ID_1311434746" MODIFIED="1535018532228" TEXT="List of groups, people doing" VSHIFT="19">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535013738841" HGAP="158" ID="ID_649801298" MODIFIED="1535019038042" TEXT="Govt schemes" VSHIFT="-39">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013746911" HGAP="117" ID="ID_1335431903" MODIFIED="1535015770143" TEXT="Like minded Groups across the globe" VSHIFT="6">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014257492" FOLDED="true" HGAP="271" ID="ID_802229719" MODIFIED="1535019031886" TEXT="Santhai" VSHIFT="21">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535014266888" ID="ID_1474918168" MODIFIED="1535015700628" TEXT="OorSanthai- Semmai Vanam">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014281387" ID="ID_612897407" MODIFIED="1535015700628" TEXT="Namma Santhai - Tambaram Makkal Kuzhu">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014294165" ID="ID_1628288926" MODIFIED="1535015700628" TEXT="Nalla Santhai - Nalla Keerai">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014314158" ID="ID_1100565936" MODIFIED="1535015700628" TEXT="Organic Farmers marker - OFM Ananthoo">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535013766235" FOLDED="true" HGAP="275" ID="ID_916645978" MODIFIED="1535019031886" TEXT="Groups" VSHIFT="9">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013982183" HGAP="148" ID="ID_769913966" MODIFIED="1535015700628" TEXT="Iyalvaagai" VSHIFT="-25">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013987241" HGAP="125" ID="ID_630543769" MODIFIED="1535015700628" TEXT="Vaanagam" VSHIFT="-12">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013992402" HGAP="109" ID="ID_355604681" MODIFIED="1535015700628" TEXT="Semmai vanam" VSHIFT="-5">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013995924" HGAP="188" ID="ID_413187597" MODIFIED="1535015700628" TEXT="Panai naduvam" VSHIFT="12">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014001694" HGAP="165" ID="ID_1260138426" MODIFIED="1535015700628" TEXT="thenkani" VSHIFT="6">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014229467" HGAP="140" ID="ID_645664651" MODIFIED="1535015700628" TEXT="Gandhi Ashramam Anaimalai" VSHIFT="9">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014245752" HGAP="134" ID="ID_1659844664" MODIFIED="1535015700628" TEXT="Namma Sandhai Tambaram" VSHIFT="11">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535013771954" HGAP="214" ID="ID_40547410" MODIFIED="1535016969842" TEXT="People" VSHIFT="7">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535014080122" ID="ID_1841393998" MODIFIED="1535015700628" TEXT="Senthamizhan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014085988" ID="ID_1054241473" MODIFIED="1535015700628" TEXT="Pamayan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014089103" ID="ID_948271428" MODIFIED="1535015700628" TEXT="Ranganathan">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014096655" ID="ID_1369573076" MODIFIED="1535015700628" TEXT="Alageswari">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014124081" ID="ID_615902915" MODIFIED="1535015700628" TEXT="Fasaloor Rahman">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014130190" ID="ID_1700216439" MODIFIED="1535015700628" TEXT="Sultan Mohd. Ismail">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014141338" ID="ID_853581741" MODIFIED="1535015700628" TEXT="Ilango Kallanai">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014149663" ID="ID_762192367" MODIFIED="1535015700628" TEXT="Alagesa Pandian">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014155918" ID="ID_1823680847" MODIFIED="1535015700628" TEXT="SKRCF Karthikeya Sivasenathipathi">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535014167611" ID="ID_1508619209" MODIFIED="1535015700628" TEXT="Healer Basker">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node CREATED="1535012137034" HGAP="224" ID="ID_1141936921" MODIFIED="1535016768098" TEXT="Intha vaaram ivarai patri" VSHIFT="-8">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+</node>
+<node COLOR="#000000" CREATED="1535012150046" FOLDED="true" HGAP="153" ID="ID_1078188676" MODIFIED="1535018331839" TEXT="How to contribute" VSHIFT="20">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535013549818" ID="ID_1090022514" MODIFIED="1535015700628" TEXT="Ideas to contribute to the society">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013561891" ID="ID_447501578" MODIFIED="1535015700628" TEXT="Supplying farm fresh produce">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013577385" ID="ID_1565809385" MODIFIED="1535015700628" TEXT="Bringing handcrafted things for the community sales">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013600570" ID="ID_1092033431" MODIFIED="1535015700628" TEXT="conductin training classes">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013610678" ID="ID_1984516107" MODIFIED="1535015700628" TEXT="Sharing experience">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535012200432" HGAP="211" ID="ID_53593238" MODIFIED="1535017951343" TEXT="Activities" VSHIFT="49">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+<node CREATED="1535012240968" FOLDED="true" ID="ID_1532646241" MODIFIED="1535016794562" TEXT="Providing Organic and Natural goods at low cost from Farmers to people in different places">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012671443" ID="ID_1256638929" MODIFIED="1535015700628" TEXT="List of goods">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+</node>
+<node CREATED="1535012681221" ID="ID_967933575" MODIFIED="1535015700628" TEXT="How to get the goods">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012727101" ID="ID_1835474796" MODIFIED="1535015700628" TEXT="How to contribute to this goods">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535012752564" ID="ID_284650630" MODIFIED="1535016942733" TEXT="karutharangu/Manadu">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012775668" ID="ID_1985209466" MODIFIED="1535015700628" TEXT="Healer Baskar @ CIT 2017">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535012794266" ID="ID_1736060982" MODIFIED="1535015700628" TEXT="CD Foundation Podanur 2016">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535012853009" ID="ID_1535350469" MODIFIED="1535015700628" TEXT="Guests: ">
+<node CREATED="1535012859350" ID="ID_613905905" MODIFIED="1535015700628" TEXT="Ramashanmugam"/>
+<node CREATED="1535012866172" ID="ID_560149361" MODIFIED="1535015700628" TEXT="Maran ji"/>
+<node CREATED="1535012872204" ID="ID_685480990" MODIFIED="1535015700628" TEXT="Guru of Hr. Baskar"/>
+</node>
+</node>
+</node>
+<node CREATED="1535013004623" ID="ID_1422925505" MODIFIED="1535016943737" TEXT="Whatsapp Group">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013012034" HGAP="32" ID="ID_1816221560" MODIFIED="1535015700628" TEXT="A whatsapp group has been created to discuss, share useful information." VSHIFT="71">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+</node>
+<node COLOR="#000000" CREATED="1535013172632" HGAP="130" ID="ID_1993695442" MODIFIED="1535016765083" TEXT="Intha vaaram intha bookai patri" VSHIFT="-11">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+</node>
+<node CREATED="1535013354443" FOLDED="true" HGAP="87" ID="ID_993924790" MODIFIED="1535017088833" TEXT="Icons list Legend" VSHIFT="-82">
+<font NAME="SansSerif" SIZE="12"/>
+<node CREATED="1535013383018" ID="ID_600842396" MODIFIED="1535015700628" TEXT="one time update">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-green"/>
+</node>
+<node CREATED="1535013390950" FOLDED="true" ID="ID_4511796" MODIFIED="1535017087394" TEXT="Periodic update">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-yellow"/>
+<node CREATED="1535013406948" ID="ID_1923620583" MODIFIED="1535015700628" TEXT="weekly">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013410924" ID="ID_1143501990" MODIFIED="1535015700628" TEXT="daily">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+<node CREATED="1535013414275" ID="ID_923941965" MODIFIED="1535015700628" TEXT="monthly">
+<font NAME="SansSerif" SIZE="12"/>
+</node>
+</node>
+<node CREATED="1535013423921" HGAP="15" ID="ID_1675398299" MODIFIED="1535015858728" TEXT="Other special reasons" VSHIFT="5">
+<font NAME="SansSerif" SIZE="12"/>
+<icon BUILTIN="flag-pink"/>
+</node>
+</node>
+<node CREATED="1535017152156" HGAP="64" ID="ID_627445776" MODIFIED="1535017190959" TEXT="Pages" VSHIFT="-479">
+<node CREATED="1535017225517" ID="ID_238495962" MODIFIED="1535017227361" TEXT="Home"/>
+<node CREATED="1535017229122" ID="ID_1282865407" MODIFIED="1535017232137" TEXT="About"/>
+<node CREATED="1535017233652" ID="ID_617463517" MODIFIED="1535017237105" TEXT="Blog"/>
+<node CREATED="1535017242240" ID="ID_1401878250" MODIFIED="1535017256377" TEXT="Notifications"/>
+<node CREATED="1535017257311" ID="ID_871942987" MODIFIED="1535017258842" TEXT="Events"/>
+</node>
+</node>
+</node>
+</map>
